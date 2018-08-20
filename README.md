@@ -8,4 +8,8 @@ So what it does?
 3. load something from csv file and show it to you
 4. Open Facebook from python
 
+Screenshot: 
+![alt text](http://firdausshajahan.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-20-at-9.28.32-PM-300x72.png "Screenshot Menu")
+
+
 to test the python code,just type "python main.py" at the cmd/terminal. Make sure change directory to the location fo the source code. eg : "cd /Downloads/learnPython"
